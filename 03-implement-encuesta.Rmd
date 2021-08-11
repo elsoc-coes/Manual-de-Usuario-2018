@@ -1,0 +1,118 @@
+# Implementación de la Encuesta {#implement_encuesta}
+
+COES realizó una licitación pública para la ejecución del ELSOC. El Centro Micro Datos (CMD) de la Facultad de Economía y Negocios de la Universidad de Chile se adjudicó dicho concurso y se encargó del desarrollo de la encuesta, incluyendo el trabajo de campo durante las cuatro primeras olas. El acuerdo con Micro Datos contempla los más altos estándares de calidad y asegura un adecuado resguardo de los datos personales de contacto de los participantes del estudio panel.
+
+Este apartado describe la implementación ELSOC 2018, por lo que se recomienda revisar los Manuales de Usuario de olas anteriores si desea formarse una visión más detallada de la fase de empadronamiento e inicio del trabajo de campo del estudio.
+
+
+## Estrategia de Seguimiento
+
+COES y Centro MicroDatos definieron una estrategia de fidelización y seguimiento de los encuestados de ELSOC 2016 y 2017 con el objetivo de minimizar la potencial atrición en el estudio. El insumo básico de este procedimiento fue el almacenamiento de información de contacto de los encuestados (además de su nombre de pila, contar con teléfono de contacto y dirección de correo electrónico). 
+
+CMD realizó una ronda de re-contacto con los participantes de ELSOC en los meses de Junio y Julio 2018, con el supuesto de que la cercanía con el levantamiento definitivo en el mes de Agosto permitiría que sea alta la probabilidad de contactarlos. Esto se realizó vía telefónica y vía correo electrónico, con el objetivo de verificar y actualizar los datos de contacto de la muestra y notificar a los contactos efectivos sobre la fecha estimada para la realización de la tercera ola ELSOC. Dicha información permite contar con un listado de direcciones de residencia de los encuestados ELSOC y la información cartográfica pertinente para facilitar el trabajo de campo del encuestador. Estos insumos fueron cruciales para la planificación del trabajo de campo de 2018.
+
+
+## Pilotaje del Cuestionario Y Capacitación
+
+Con el cuestionario correspondiente a la tercera ola de ELSOC, previamente elaborado por COES y CMD a cargo de la programación de éste para que fuera aplicada de manera presencial en tablets (sistema CAPI). En una primera fase, el equipo ELSOC chequeó el flujo del cuestionario programado en tablets y propuso ajustes menores. Luego, se coordinó una versión piloto del estudio con el fin de testear el instrumento y evaluar el funcionamiento operativo del instrumento.
+
+El pilotaje se realizó durante el mes de Julio del 2018, seguido de una ronda de focus group a los encuestadores con el objetivo de obtener recomendaciones relevantes para el levantamiento final de la encuesta. Esto fue utilizado para introducir cambios menores al cuestionario programado en tablets y para definir ajustes al programa de capacitación de los encuestadores.
+
+El CMD se encargó de la selección y capacitación del personal requerido (coordinadores y encuestadores). La capacitación de coordinadores de campo y encuestadores fue ejecutada por CMD con apoyo técnico de COES para aspectos específicos. CMD realizó dicha tarea de manera centralizada, de modo de que los coordinadores fueron capacitados en dependencias de la Facultad de Economía y Negocios (FEN) de la Universidad de Chile en la Región Metropolitana.
+
+Se dispuso de 18 sedes de trabajo administradas por coordinadores de zona. Las sedes permiten recibir a los encuestadores y almacenar los insumos del estudio, contando con conexión a internet para facilitar la carga de las encuestas recolectadas. La capacitación de los encuestadores se realizó 100% presencial, para lo cual se realizó una capacitación central con gran parte de los coordinadores, quienes posteriormente capacitaron a los encuestadores. En otros casos, se desplegó capacitadores para que realizaran esta actividad en algunas zonas.
+
+
+## Planificación y Ejecución del Campo
+
+Al igual que para las olas anteriores, CMD elaboró un Manual del Encuestador para la implementación de ELSOC y en conjunto con COES preparó documentos orientadores y protocolos para la aplicación del cuestionario. Esto incluye: 
+
+1. **Protocolo de Visita:** primer contacto con la vivienda, primer contacto con el hogar y concertación de entrevistas en casos en que no se puede realizar entrevista al momento de visita.
+2. **Protocolo ante Casos Difíciles:** escenario de negaciones, escenario de más de 4 intentos presenciales sin contacto, barreras de acceso a la vivienda, no contacto con la vivienda. También contempla estrategias de recuperación.
+3. **Protocolo de Aplicación del Cuestionario:** descripción del estudio, consentimiento informado, aplicación de preguntas, manejo de interrupciones, entrega de gift cards.
+4. **Protocolo de Campo:** respaldo de información, control de avances, registro de contactos. 
+5. **Protocolo de Futuros Seguimientos (tercera ola):** se solicita información de contacto para poder re-contactar en otra oportunidad al entrevistado seleccionado.
+
+Los documentos fueron adaptados de modo tal de ajustarse a los requerimientos del seguimiento de una muestra previamente entrevistada y de una muestra nueva (refresco). El levantamiento de información fue realizado en un período de aproximadamente 10 semanas -contadas desde la entrega de material a los encuestadores tras la capacitación-, entre septiembre y noviembre 2018. Para la ejecución del terreno se contó con 189 encuestadores distribuidos en las 18 sedes de trabajo antes referidas. Todos fueron debidamente capacitados, para posteriormente ser citados para retirar el material de trabajo (hojas de ruta, citas concertadas, croquis de ubicación y tablet).
+
+CMD cuenta con información relevante para garantizar un adecuado recontacto (nombre del entrevistado, información de contacto y aspectos básicos para su identificación) y utiliza dicha información para concertar entrevistas y planificar el campo. Cada encuestador recibió del coordinador de sede o encuestador apoderado los datos sobre las citas concertadas con participantes ELSOC y utiliza un protocolo de entrevista específico para re-entrevistas. Las respuestas de los entrevistados fueron almacenadas en tablets provistas por CMD. La información recolectada era subida por los encuestadores a una plataforma web utilizando la tablet de CMD. Al finalizar la entrevista se entrega un incentivo monetario (tarjeta de regalo de 6.000 pesos), un folleto informativo sobre COES y ELSOC y se amplía la base de datos de información de contacto de participantes ELSOC. 
+
+## Supervisión del Trabajo de Campo
+
+El Centro MicroDatos desarrolló un proceso de supervisión del trabajo en terreno involucrando cinco etapas:
+
+1. Supervisión del 100% de las encuestas recopiladas, realizado de manera simultánea por el Coordinador de Grupo. Para esto se utilizó una aplicación web diseñada para estos fines. Esto implicó la verificación del sujeto entrevistado, revisión de variables claves, revisión del resultado de visita y revisión de duración de entrevista.
+
+2. Para verificar la veracidad de las encuestas levantadas fue seleccionada una muestra de control, cuyo levantamiento fue organizado por un coordinador y ejecutado de manera centralizada mediante la vía telefónica o visitas en terreno, por personal distinto al que realizó el levantamiento de las encuestas. El objetivo principal fue verificar que los datos de la persona reportados en la encuesta coincidan con la persona del hogar que se le aplicó el estudio, además de la consistencia de un subconjunto de preguntas claves del cuestionario.
+
+3. Sobre la base de la revisión de las encuestas realizadas y los resultados de los controles telefónicos, el coordinador de zona retroalimentó a su equipo (al menos una vez por semana) con observaciones y sugerencias respecto al trabajo de campo, orientadas a ayudar a mejorar su desempeño. Los encuestadores también brindaron observaciones y retroalimentación a sus coordinadores a partir de su experiencia en terreno.
+
+4. Supervisión de encuestas por uso de CAPI. El software desarrollado para el cuestionario permite manejar de mejor modo la no respuesta, validar internamente el flujo del cuestionario (evitar problemas con filtros) y recolectar información sobre el tiempo de aplicación. La validación interna y el chequeo de rango y consistencia de la información minimiza notablemente el error de medición y es una de las ventajas del diseño de ELSOC.
+
+5. Revisión de casos especiales y validación ex post. Finalmente, CMD revisó el funcionamiento del flujo de respuestas y descartó 13 casos con información falsificada, llegándose a un total de 2520 casos.
+
+## Incidencias de Terreno y Códigos de Disposición Final de Casos
+
+El trabajo de terreno se desarrolló en un período de 10 semanas aun cuando en esta tercera ola ingresaron cerca de 1.500 nuevos entrevistados.
+
+La primera incidencia fue que el 6,9% de los individuos de la muestra seguimiento 2016-2017 se había cambiado de domicilio, cifra mayor al año anterior. Sin embargo, dado que se contaba con información de contacto no repercutió mayormente en la continuidad de su participación en el estudio.
+
+La segunda incidencia, y de mayor envergadura, refiere a la detección de casos falsificados en las versiones 2016-2017 en las regiones de Tarapacá y Valparaíso.
+    - Región de Tarapacá: se encontraron 11 encuestas falsificadas para la versión 2016 y 2017. Este número de falsificaciones es relevante considerando que el tamaño de la muestra esperada en esa región, era de 46 casos, lo cual equivale a un 24% de pérdida de muestra de seguimiento.
+    - Región de Valparaíso: se encontraron 50 casos falsificados en la ola 1 y 36 en la ola 2, lo cual representa un 9% para la versión 2016 y un 8% para la versión 2017.
+    
+Frente a esto, se decidió aumentar el porcentaje de encuestas a controlar de 10% a 15% para el año 2018 y se propone una rotación de los encuestadores respecto a los entrevistados para olas futuras.
+
+Siguiendo los estándares de la Asociación Americana de Investigación en Opinión Pública (AAPOR por su sigla en inglés), se asoció a cada uno de los casos de la muestra completa un código de disposición final. En base a dicha información, la tercera ola de ELSOC tiene las siguientes tasas de resultados:
+
+* Tasa de Respuesta (RR2): 80,3% muestra seguimiento y 57,6%^[Esta tasa está calculada sobre los 2.640 casos que se enviaron a terreno.]  muestra refresco.
+* Tasa de Rechazo (REF2): 5,5% muestra seguimiento y 8,3% muestra refresco.
+*¨Tasa de Contacto (CON2): 88,1% muestra seguimiento y 67,7% muestra refresco.
+*¨Tasa de Cooperación (COOP2): 91,1% muestra seguimiento y 85,1% muestra refresco.
+
+Si desea conocer más detalles sobre la determinación de los códigos de disposición final de casos y el cálculo de las tasas de resultados, dirigirse a http://www.aapor.org/AAPOR_Main/media/publications/Standard-Definitions20169theditionfinal.pdf .
+
+## Aspectos Longitudinales y Cuarta Ola del Estudio
+
+Un aspecto esencial de la planificación de ELSOC desde sus orígenes fue la atrición presupuestada. Desde la etapa de diseño se contemplaron distintos escenarios potenciales de atrición y se definió el diseño muestral acorde a las conclusiones de dicho examen (Ver Figura 1). A su vez, los escenarios de atrición fueron parte de los objetivos que guiaron el diseño de la licitación del estudio y el trabajo con CMD.
+
+
+![(#fig:atricion) Diseño Muestral de ELSOC según Ola](../Imagenes/attrition_01.png){width=70%}
+
+ 
+El Cuadro 7 describe la recuperación de casos de la muestra seguimiento ELSOC, tanto del año 2017 respecto a 2016, 2018 respecto a 2017 y 2018 respecto a 2016, desagregando en sub-grupos claves. Se observa que la muestra de 2017 equivale a un 84.5% de la original, resultado mejor a las estimaciones de un 20% de atrición en la primera ola. Mientras que la muestra seguimiento 2018 corresponde al 76.2% de la muestra original y 90,1% si se compara con los participantes en el año 2017.
+
+Además, se observan diferencias sustantivas en términos de sexo, zona y tramo etario del entrevistado.
+
+```{r Librerías 3, include=FALSE}
+library(pacman)
+pacman::p_load(tidyverse,knitr,kableExtra,dplyr,tinytex)
+```
+
+```{r Cuadro 7, echo=FALSE}
+atricion_atributo <- tibble("Variable" =
+                            c("Hombre","Mujer","Norte","Centro","Sur","Metropolitana","18-29 años","30-49 años",
+                              "50-64 años","65 años y más","Total"),
+                    "2016-2017" = 
+                            c("81.8","86.3","85.8","84.5","85.8","83.4","74.1","81.1","91.3","92.7","84.5"),
+                    "2017-2018" = 
+                            c("88.2","91.3","91.9","92.7","90.6","85.6","71.7","88.2","94.6","103.6","90.1"),
+                    "2016-2018" = 
+                            c("72.1","78.8","78.9","78.4","77.7","71.3","53.2","71.5","86.4","96.0","76.2")) 
+
+
+atricion_atributo %>%
+  kable(booktabs = TRUE,caption="\\label{tab:atricion_atributo}Análisis de Atrición muestra seguimiento según atributos claves") %>%
+  column_spec(c(1), width = "3cm") %>%
+  column_spec(c(2), width = "3cm") %>%
+  column_spec(c(3), width = "3cm") %>%
+  column_spec(c(4), width = "3cm") %>%
+  kable_classic(full_width = F) %>%
+  kable_styling(latex_options = "HOLD_position")
+```
+
+Cabe recordar que el plan de trabajo de COES contemplaba desde el inicio la incorporación de una muestra refresco de 1400 casos, debido a la atrición propia de los estudios longitudinales (ver figura 2). El objetivo de la muestra de refresco es corregir la sub-cobertura de ciertos grupos poblacionales y ajustar por la pérdida de casos dado la atrición. 
+
+El año 2019 se levantará la cuarta ola de ELSOC. En esta cuarta ola se volverá a entrevistar a las personas encuestadas en la primera ola (2016) y a las personas incorporadas en la tercera ola (2018). Los resultados de la cuarta ola estarán disponibles durante el primer semestre del año 2020.
+
+![(#fig:atricion2) Diseño Muestral de ELSOC según Ola](../Imagenes/Sample_Design.png){width=70%}
